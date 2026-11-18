@@ -1,4 +1,4 @@
-# metagraph-sh
+# Metagraphed
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,144 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-metagraph-sh is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://metagraph.sh/
+Metagraphed provides an unofficial public explorer and integration registry for the Bittensor blockchain ecosystem. It surfaces data on subnets, validators, chain activity, accounts, and the public APIs each subnet exposes. The platform offers a searchable registry, real‑time health checks, and machine‑readable schemas for developers to build on Bittensor. It aims to improve transparency and accessibility of blockchain data for the community.
+
+**Areas:** Company · Blockchain · Explorer · Registry · Bittensor
+
+## Metagraphed on APIs.io
+
+Everything profiled for Metagraphed is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/metagraph-sh/](https://apis.io/providers/metagraph-sh/)** — or go straight to one of the APIs or properties below.
+
+### APIs (25)
+
+- [Metagraphed Accounts API](https://apis.io/apis/metagraph-sh/metagraph-sh-accounts-api/) — The accounts API from Metagraphed — 46 operation(s) for accounts.
+- [Metagraphed Adapters API](https://apis.io/apis/metagraph-sh/metagraph-sh-adapters-api/) — The adapters API from Metagraphed — 2 operation(s) for adapters.
+- [Metagraphed Agents API](https://apis.io/apis/metagraph-sh/metagraph-sh-agents-api/) — The agents API from Metagraphed — 2 operation(s) for agents.
+- [Metagraphed Alerts API](https://apis.io/apis/metagraph-sh/metagraph-sh-alerts-api/) — The alerts API from Metagraphed — 1 operation(s) for alerts.
+- [Metagraphed API Dx API](https://apis.io/apis/metagraph-sh/metagraph-sh-api-dx-api/) — The api-dx API from Metagraphed — 1 operation(s) for api-dx.
+- [Metagraphed Blocks API](https://apis.io/apis/metagraph-sh/metagraph-sh-blocks-api/) — The blocks API from Metagraphed — 13 operation(s) for blocks.
+- [Metagraphed Candidates API](https://apis.io/apis/metagraph-sh/metagraph-sh-candidates-api/) — The candidates API from Metagraphed — 2 operation(s) for candidates.
+- [Metagraphed Chain API](https://apis.io/apis/metagraph-sh/metagraph-sh-chain-api/) — The chain API from Metagraphed — 63 operation(s) for chain.
+- [Metagraphed Contracts API](https://apis.io/apis/metagraph-sh/metagraph-sh-contracts-api/) — The contracts API from Metagraphed — 3 operation(s) for contracts.
+- [Metagraphed Endpoints API](https://apis.io/apis/metagraph-sh/metagraph-sh-endpoints-api/) — The endpoints API from Metagraphed — 4 operation(s) for endpoints.
+- [Metagraphed Evidence API](https://apis.io/apis/metagraph-sh/metagraph-sh-evidence-api/) — The evidence API from Metagraphed — 2 operation(s) for evidence.
+- [Metagraphed Extrinsics API](https://apis.io/apis/metagraph-sh/metagraph-sh-extrinsics-api/) — The extrinsics API from Metagraphed — 6 operation(s) for extrinsics.
+- [Metagraphed Feeds API](https://apis.io/apis/metagraph-sh/metagraph-sh-feeds-api/) — The feeds API from Metagraphed — 32 operation(s) for feeds.
+- [Metagraphed Health API](https://apis.io/apis/metagraph-sh/metagraph-sh-health-api/) — The health API from Metagraphed — 11 operation(s) for health.
+- [Metagraphed Operations API](https://apis.io/apis/metagraph-sh/metagraph-sh-operations-api/) — The operations API from Metagraphed — 7 operation(s) for operations.
+- [Metagraphed Profiles API](https://apis.io/apis/metagraph-sh/metagraph-sh-profiles-api/) — The profiles API from Metagraphed — 2 operation(s) for profiles.
+- [Metagraphed Providers API](https://apis.io/apis/metagraph-sh/metagraph-sh-providers-api/) — The providers API from Metagraphed — 3 operation(s) for providers.
+- [Metagraphed Registry API](https://apis.io/apis/metagraph-sh/metagraph-sh-registry-api/) — The registry API from Metagraphed — 18 operation(s) for registry.
+- [Metagraphed Rpc API](https://apis.io/apis/metagraph-sh/metagraph-sh-rpc-api/) — The rpc API from Metagraphed — 3 operation(s) for rpc.
+- [Metagraphed Schemas API](https://apis.io/apis/metagraph-sh/metagraph-sh-schemas-api/) — The schemas API from Metagraphed — 1 operation(s) for schemas.
+- [Metagraphed Search API](https://apis.io/apis/metagraph-sh/metagraph-sh-search-api/) — The search API from Metagraphed — 6 operation(s) for search.
+- [Metagraphed Subnets API](https://apis.io/apis/metagraph-sh/metagraph-sh-subnets-api/) — The subnets API from Metagraphed — 78 operation(s) for subnets.
+- [Metagraphed Surfaces API](https://apis.io/apis/metagraph-sh/metagraph-sh-surfaces-api/) — The surfaces API from Metagraphed — 3 operation(s) for surfaces.
+- [Metagraphed Validators API](https://apis.io/apis/metagraph-sh/metagraph-sh-validators-api/) — The validators API from Metagraphed — 8 operation(s) for validators.
+- [Metagraphed Webhooks API](https://apis.io/apis/metagraph-sh/metagraph-sh-webhooks-api/) — The webhooks API from Metagraphed — 1 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Metagraphed Agentic Access](https://apis.io/agentic-access/metagraph-sh/metagraph-sh-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GlobalValidatorsArtifact](https://apis.io/schemas/metagraph-sh/metagraph-sh-global-validators-artifact/)
+- [SubnetCostToParticipateArtifact](https://apis.io/schemas/metagraph-sh/metagraph-sh-subnet-cost-to-participate-artifact/)
+- [SubnetEmissionSplitHistoryArtifact](https://apis.io/schemas/metagraph-sh/metagraph-sh-subnet-emission-split-history-artifact/)
+- [SubnetMinerFairnessArtifact](https://apis.io/schemas/metagraph-sh/metagraph-sh-subnet-miner-fairness-artifact/)
+- [SubnetOwnerCaptureArtifact](https://apis.io/schemas/metagraph-sh/metagraph-sh-subnet-owner-capture-artifact/)
+- [ValidatorDetailArtifact](https://apis.io/schemas/metagraph-sh/metagraph-sh-validator-detail-artifact/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Metagraph Sh Context](https://apis.io/jsonld/metagraph-sh/metagraph-sh-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Metagraphed API Rules](https://apis.io/rules/metagraph-sh/metagraph-sh-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Metagraphed Domain Security](https://apis.io/security/metagraph-sh/metagraph-sh-domain-security/)
+- [Metagraphed Vulnerability Disclosure](https://apis.io/security/metagraph-sh/metagraph-sh-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://metagraph.sh/)
+- [Documentation](https://metagraph.sh/docs)
+- [API reference](https://metagraph.sh/llms.txt)
+- [Terms of service](https://metagraph.sh/terms)
+- [Privacy policy](https://metagraph.sh/privacy)
+
+## API Evangelist rating
+
+**Kin Score 42.3** — developing · rubric 0.28.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.7 |
+| Contract quality | 59.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 17.0 |
+
+**Agent readiness 60.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/metagraph-sh/](https://apis.io/providers/metagraph-sh/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Metagraphed: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/metagraph-sh/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
